@@ -40,4 +40,5 @@ conda install -n VC_P1 ipykernel --update-deps --force-reinstall
 
 ## Autoría
 [Sara Expósito Suárez](https://github.com/SaraE5)
+
 [Alejandro Padrón Ossorio](https://github.com/apadoss)
