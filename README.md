@@ -6,6 +6,7 @@ Efectos a tiempo real en cámara web.
 
 ## Tareas del Proyecto
 - Tablero de ajedrez (800x800 píxeles)
+
 ![Tablero ajedrez](image.png)
 - Imagen estilo [Mondrian](https://www3.gobiernodecanarias.org/medusa/ecoescuela/sa/2017/04/17/descubriendo-a-mondrian/)
 ![alt text](image-1.png)
